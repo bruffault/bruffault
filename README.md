@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bruffault
+- 👀 I’m interested in cars, engineering and marketing
+- 🌱 I’m currently learning Ruby on Rails
+- 💞️ I’m looking to collaborate on projects about data 
+- 📫 How to reach me : b.ruffault@me.com
